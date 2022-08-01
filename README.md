@@ -33,8 +33,6 @@ When beginning a new project,
 [🔝 Back to contents](#contents)
 
 
-[🔝 Back to contents](#contents)
-
 ### **Additional Resources**
 
 - [Learn Git](https://www.atlassian.com/git/tutorials)
