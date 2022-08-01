@@ -4,9 +4,9 @@ Git Workflow Practices
 
 [Overview](#overview)
 
-[New Project](#New Project)
+[New Project](#new-project)
 
-[Additional Resources](#Additional Resources)
+[Additional Resources](#additional-resources)
 
 ### **Overview**
 
